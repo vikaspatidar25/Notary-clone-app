@@ -1,0 +1,87 @@
+.footer{
+    display: flex;
+    padding-bottom: 70px;
+
+}
+.footer1st{
+    background-image: url(https://preview.colorlib.com/theme/notary/images/hero_bg_footer.jpg.webp);
+    height:600px;
+    width: 1343px;
+    padding: 120px 100px 100px 100px;
+}
+.footer1 h2{
+    color: white;
+    font-size: 20px;
+
+}
+.footer1 p{
+    color: white;
+    font-size: 17px;
+}
+.footer1{
+    width: 280px;
+    margin-right: 80px;
+    margin-top: 7px;
+}
+.fa-brands{
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 30px;
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    color: white;
+    
+    background-color: #eeb95e;
+}
+.sociali{
+    display: flex;
+}
+.footer2{
+    color: white;
+    display: flex;
+}
+.footer2 h2{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.footer2 ul a li{
+    color: rgb(199, 189, 189);
+    padding-left: 0px;
+    font-size: 18px;
+    margin-bottom: 9px;
+
+}
+.footer2 ul a li:hover{
+    color: white;
+}
+.footer2a h2{
+    margin-left: 30px;
+
+}
+.footer2a ul{
+list-style: none;
+}
+.footer2a ul a {
+text-decoration: none;
+}
+.footer1 p{
+line-height: 30px;
+
+}
+.fa-heart{
+color: red;
+}
+.footerend{
+color: white;
+text-align: center;
+font-size: 20px;
+}
+.footerend a{
+color: rgb(199, 189, 189);
+text-decoration: none;
+}
+hr{
+    color: white;
+}

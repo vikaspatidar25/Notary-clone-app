@@ -1,0 +1,34 @@
+.header1{
+    /* padding: 30px; */
+    background-color: #fee2b3;
+    /* border: 2px solid red; */
+
+}
+.navbar-brand{
+    margin-left: 100px;
+    color: black;
+    font-weight: 900;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-item{
+    margin-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+.home{
+    margin-left: 500px;
+}
+.nav-link{
+    color:rgba(0, 0, 0, 0.7);
+    font-weight: 400;
+}
+.nav-link:hover{
+    color: black;
+
+}
+.nav-link:active{
+    color: black;
+
+}

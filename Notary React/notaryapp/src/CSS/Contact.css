@@ -1,0 +1,122 @@
+.contactpara{
+    background-image: url(https://preview.colorlib.com/theme/notary/images/hero_bg_1.jpg.webp);
+    height: 650px;
+    width: 1340px;
+    background-size:1340px;
+}
+.contactpara1{
+    padding-top: 250px;
+}
+.contactpara{
+    color: white;
+}
+.contactpara1 strong{
+    font-size: 45px;
+    padding-left: 525px;
+    font-family: 'Playfair Display';
+
+}
+.contactpara1 p{
+    padding-left: 350px;
+    padding-right: 350px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#firstname{
+    width: 340px;
+    height: 55px;
+    margin-right: 30px;
+    font-size: 18px;
+    font-family: 'Roboto';
+
+}
+#lastname{
+    width: 340px;
+    height: 55px;
+    font-size: 18px;
+    font-family: 'Roboto';
+
+}
+#emailinput{
+    width:710px;
+    height :55px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Roboto';
+
+}
+#messageinput{
+    width: 710px;
+    height: 250px;
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Roboto';
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1.5px;
+    border-radius: 3px;
+
+}
+.contactform button{
+    width :350px;
+    color: white;
+}
+.form11{
+    margin-top: 25px;
+}
+body{
+    background-color: #f8f9fa ;
+}
+.contactform{
+    margin: 100px 120px;
+    display: flex;
+}
+.form22{
+    background-color: white;
+    width: 360px;
+    height: 375px;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-family: 'Playfair Display';
+    padding: 50px 40px;
+}
+.form22 span{
+    font-family: 'Roboto';
+    font-size: 17px;
+    padding-top: 20px;
+}
+.form22 h3{
+    margin-bottom: 15px;
+}
+.form22 p{
+   color:  #364d59 ;
+   font-family: 'Roboto';
+   line-height: 25px;
+   font-size: 17px;
+}
+
+#firstname:focus{
+    border-color: #b38d4d;
+    border-width: 1.5px;
+    /* outline: none ; */
+
+}
+#lastname:focus{
+    border-color: #b38d4d;
+    border-width: 1.5px;
+    outline: none ;
+
+}
+#emailinput:focus{
+    border-color: #b38d4d;
+    border-width: 1.5px;
+    outline: none ;
+
+}
+#messageinput:focus{
+    border-color: #b38d4d;
+    border-width: 1.5px;
+    outline: none ;
+
+}

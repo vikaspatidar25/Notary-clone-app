@@ -1,0 +1,173 @@
+.box1{
+    background-image: url(https://preview.colorlib.com/theme/notary/images/hero_bg_1.jpg.webp);
+    background-size: cover;
+    height: 700px;
+}
+.box1 p{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 50;
+    margin-top: 0px;
+
+}
+.box1 h1{
+    
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+.box2{
+/* border: 2px solid red; */
+margin-left: 90px;
+margin-right: 90px;
+padding: 20px;
+}
+.box2-1{
+display: flex;
+}
+.box2-1-1{
+width: 380px;
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+/* border: 2px solid blue; */
+background-color: white;
+}
+.box2-1-2{
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+width: 380px;
+margin-left: 30px;
+background-color: white;
+/* border: 2px solid blue; */
+
+}
+.box2-1-3{
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+width: 380px;
+margin-left: 30px;
+background-color: white;
+/* border: 2px solid blue; */
+
+}
+.fa{
+font-size: 50px;
+margin-top: 50px;
+margin-left: 40px;
+padding-bottom: 10px;
+color: #f6d190;
+}
+.box2-1 h3{
+margin-left: 40px;
+font-size: 22px;
+font-family: Playfair Display ;
+font-weight: 900;
+
+}
+.box2-1 p{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 40px;
+margin-top: -10px;
+margin-bottom: 40px;
+font-size: 17px;
+color: #999999;
+}
+.box2-2{
+display: flex;
+}
+.box2-2-1{
+width: 380px;
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+/* border: 2px solid blue; */
+background-color: white;
+margin-top: 50px;
+}
+.box2-2-2{
+margin-top: 50px;
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+width: 380px;
+margin-left: 30px;
+background-color: white;
+/* border: 2px solid blue; */
+
+}
+.box2-2-3{
+margin-top: 50px;
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.1);
+width: 380px;
+margin-left: 30px;
+background-color: white;
+/* border: 2px solid blue; */
+
+}
+.box2-2 h3{
+margin-left: 40px;
+font-size: 22px;
+font-family: Playfair Display ;
+font-weight: 900;
+
+}
+.box2-2 p{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 40px;
+margin-top: -10px;
+margin-bottom: 40px;
+font-size: 17px;
+color: #999999;
+}
+.bigbox{
+/* border: 5px solid red; */
+background-color: rgb(247, 243, 243);
+padding-top: 60px;
+padding-bottom: 100px;
+}
+.box3{
+    display: flex;
+    margin: 80px 100px;
+    gap: 30px;
+
+}
+.box3 img{
+    height: 428px;
+    width: 302px;
+}
+.allnewcontent h3{
+  margin-top: 20px;
+  font-family: Playfair Display;
+    font-size: 30px;
+   color: #364d59;
+}
+.allnewcontent{
+    margin-left: 100px;
+}
+.allnewcontent strong{
+    font-weight: 700;
+    /* color: black; */
+    color: #364d59 ;
+
+}
+.allnewcontent p{
+    color: #364d59 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 30px;
+}
+.book12 {
+    border: none;
+    background-color: #fadca7;
+    /* border-radius: 5px; */
+    font-size: 18px;
+    /* padding: 12px; */
+    margin-top: 15px;
+    height: 45px;
+    width: 200px;
+}
+.book12 a{
+    text-decoration: none;
+    color: rgb(40, 38, 38);
+}
+.book12:hover{
+    background-color: #f8cf8a;
+}
